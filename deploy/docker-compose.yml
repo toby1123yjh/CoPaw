@@ -1,5 +1,5 @@
-# 从源码构建 CoPaw Docker 镜像并运行
-# 用法: cd deploy && docker compose up --build
+# Build and run the CoPaw Docker image from source.
+# Usage: cd deploy && docker compose up --build
 services:
   copaw:
     build:
